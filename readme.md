@@ -10,6 +10,8 @@ First make sure that NewUp is installed and configured. After that, issue the fo
 newup a newup-playground/disco
 ~~~
 
+> This playground requires that newup is running at least version [0.0.4 pre-release](https://github.com/newup/core/releases/tag/0.0.4) of [core](https://github.com/newup/core).
+
 After a moment, disco will begin prompting you to learn:
 
 ~~~
