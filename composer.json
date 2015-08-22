@@ -1,6 +1,6 @@
 {
     "name": "newup-playground/disco",
-    "description": "Demonstrates the ability to interact with users using NewUp.",
+    "description": "Inspired by https://github.com/kayladnls/disco. Demonstrates the ability to interact with users using NewUp.",
     "license": "MIT",
     "authors": [
         {
