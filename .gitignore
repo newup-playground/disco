@@ -1,0 +1,6 @@
+composer.phar
+vendor/
+.idea/
+composer.lock
+Thumbs.db
+_newup/history

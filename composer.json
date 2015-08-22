@@ -1,0 +1,14 @@
+{
+    "name": "newup-playground/disco",
+    "description": "Demonstrates the ability to interact with users using NewUp.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnathon Koster",
+            "email": "john@stillat.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "_newup_vendor"
+    }
+}
