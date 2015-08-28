@@ -1,5 +1,7 @@
 # NewUp Playground: Disco
 
+[![Latest Stable Version](https://poser.pugx.org/newup-playground/disco/v/stable)](https://packagist.org/packages/newup-playground/disco) [![Total Downloads](https://poser.pugx.org/newup-playground/disco/downloads)](https://packagist.org/packages/newup-playground/disco) [![Latest Unstable Version](https://poser.pugx.org/newup-playground/disco/v/unstable)](https://packagist.org/packages/newup-playground/disco) [![License](https://poser.pugx.org/newup-playground/disco/license)](https://packagist.org/packages/newup-playground/disco)
+
 This playground explores a PHP implementation of [kayladnls/disco](https://github.com/kayladnls/disco), while making use of various utilities that NewUp provides. Check out the [original repository](https://github.com/kayladnls/disco). It is pretty cool.
 
 ## Using The Playground
