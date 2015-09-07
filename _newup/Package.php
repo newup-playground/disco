@@ -24,6 +24,8 @@ class Package extends BasePackageTemplate
      */
     protected $wikipedia;
 
+    protected $isQuiet = true;
+
     public function __construct(Wikipedia $wiki)
     {
         $this->wikipedia = $wiki;
