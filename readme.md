@@ -9,7 +9,7 @@ This playground explores a PHP implementation of [kayladnls/disco](https://githu
 First make sure that NewUp is installed and configured. After that, issue the following command to disco:
 
 ~~~
-newup a newup-playground/disco
+newup a newup-playground/disco .
 ~~~
 
 > This playground requires that newup is running at least version [0.0.4 pre-release](https://github.com/newup/core/releases/tag/0.0.4) of [core](https://github.com/newup/core).
@@ -17,7 +17,7 @@ newup a newup-playground/disco
 After a moment, disco will begin prompting you to learn:
 
 ~~~
-php newup.php a newup-playground/disco
+php newup.php a newup-playground/disco .
 
 Look what I found! Tenseness!! Sounds Fascinating
 Should we keep looking? [y/N] y
